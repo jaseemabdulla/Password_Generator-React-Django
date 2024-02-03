@@ -9,8 +9,8 @@ function App() {
   return (
     <>
     <div className='flex justify-center items-center h-screen'>
-
-     <h1 className='text-8xl'>Instantly generate a secure, random password with the <span className='bg-slate-500'>RAND</span> online tool</h1>
+      
+     <h1 className='text-3xl md:text-6xl text-center lg:mx-36'>Instantly generate a secure, random password with the <span className='bg-black text-yellow-500'>RAND</span> online tool</h1>
     </div>
     </>
   )
